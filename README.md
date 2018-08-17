@@ -1,5 +1,7 @@
 # HTML5-project-riddhi-diet-planner
 
+ui
+
 In this project i am using HTML5 and Javascript and bootstrap template.
  
 storage : Local storage
