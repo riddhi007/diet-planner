@@ -7,6 +7,10 @@ storage : Local storage
 Description 
 -here in this project i have prepared one diet planner, in which we can add diet items as per the date and time and priority.
 
+To run the project:
+-------------------------------------------------------------------------------------
+Open index1.html file in your browser
+
 functions:
 --------------------------------------------------------------------------------------
 
