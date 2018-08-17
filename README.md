@@ -7,7 +7,8 @@ storage : Local storage
 Description 
 -here in this project i have prepared one diet planner, in which we can add diet items as per the date and time and priority.
 
-functions
+functions:
+--------------------------------------------------------------------------------------
 
 -adding the diet menu
 
@@ -20,6 +21,7 @@ functions
  main.js file : this file contains all the javascript functions for this project.
  
  functions inside javascript file:
+ --------------------------------------------------------------------------------------
  
  additem() : for adding the item in local storage
  
